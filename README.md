@@ -1,4 +1,4 @@
-# bcdec
+# etcdec
 Small header-only C library to decompress any ETC/EAC compressed image inspired by incredible stb libaries (<http://nothings.org/stb>)
 
 Written by Sergii *"iOrange"* Kudlai in 2022.
