@@ -28,3 +28,7 @@ It is a good start to learn on how to use the **etcdec** library.
 It comes with some test images in the *test_images* folder and a batch script *test_bcdec.bat* to run over them.
 
 ---
+
+### CREDITS:
+ - Vladimir Vondrus (@mosra)
+    - fixes for platforms that define char as unsigned type

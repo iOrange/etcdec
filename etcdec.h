@@ -1,4 +1,4 @@
-﻿/* etcdec.h - v0.9
+﻿/* etcdec.h - v0.91
    provides functions to decompress blocks of ETC/EAC compressed images
    written by Sergii "iOrange" Kudlai in 2022
 
@@ -20,6 +20,9 @@
    component (32/16bit (R11) and 64/32bit (RG11) pixel)
 
    For more info, issues and suggestions please visit https://github.com/iOrange/etcdec
+
+   CREDITS:
+      Vladimir Vondrus (@mosra)      - fixes for platforms that define char as unsigned type
 
    LICENSE: See end of file for license information.
 */
